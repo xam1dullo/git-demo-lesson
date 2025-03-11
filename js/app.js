@@ -1,1 +1,5 @@
-console.log("Hello git!");
+const input = prompt("isming")
+
+
+
+console.log(`Hello ${input}`)
